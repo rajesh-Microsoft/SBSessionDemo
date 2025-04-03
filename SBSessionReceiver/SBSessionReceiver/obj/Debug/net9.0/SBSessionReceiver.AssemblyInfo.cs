@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SBSessionReceiver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1c6b6dadf16e5c42fb5364610a34deec96eb523")]
 [assembly: System.Reflection.AssemblyProductAttribute("SBSessionReceiver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SBSessionReceiver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
