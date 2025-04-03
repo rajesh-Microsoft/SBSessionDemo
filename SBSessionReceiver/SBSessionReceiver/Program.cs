@@ -5,7 +5,7 @@ using Azure.Messaging.ServiceBus;
 
 class Program
 {
-    private const string connectionString = "Endpoint=sb://rrathorepremsb.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=eIBZI0RvC7rTzlsvSqlDCrQINwSy6kqCX+ASbDHH9DI=";
+    private const string connectionString = "";
     private const string queueName = "sessiontest";
 
     static async Task Main()
